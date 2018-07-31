@@ -1,0 +1,24 @@
+[ 2018-07-31T12:06:46+08:00 ] 221.221.159.185 /index/Api/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+ERR: 无法加载模块:Home
+
+[ 2018-07-31T12:06:46+08:00 ] 221.221.159.185 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000028s ]
+ERR: 无法加载模块:Home
+
+[ 2018-07-31T12:06:47+08:00 ] 221.221.159.185 /index/Api/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+ERR: 无法加载模块:Home
+
+[ 2018-07-31T12:06:47+08:00 ] 221.221.159.185 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000005s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000025s ]
+ERR: 无法加载模块:Home
+
